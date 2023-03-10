@@ -10,6 +10,7 @@ body {
     background: #0a2a43;
     min-height: 150vh;
     display: flex;
+    overflow-x: hidden;
 }
 
 section {
