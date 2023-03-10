@@ -43,6 +43,7 @@ section img {
     height: 100%;
     object-fit: cover;
     pointer-events: none;
+    user-select: none;
 }
 
 #text {
@@ -50,6 +51,7 @@ section img {
     color: #fff;
     font-size: 10em;
     z-index: 1;
+    user-select: none;
 
 }
 
